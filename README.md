@@ -1,0 +1,2 @@
+# helpercat
+Simple Discord Bot!
